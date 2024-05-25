@@ -110,9 +110,3 @@ function moveToCenter(id) {
 
 
 
-
-
-
-
-
-
