@@ -110,3 +110,7 @@ function moveToCenter(id) {
 
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> d3fe9df134eaae229d0ed6cdae014e9ee6e5377e
